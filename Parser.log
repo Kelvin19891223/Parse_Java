@@ -1,0 +1,52 @@
+2019-08-19 00:37:59 INFO  StdSchedulerFactory:1208 - Using default implementation for ThreadExecutor
+2019-08-19 00:37:59 INFO  SimpleThreadPool:268 - Job execution threads will use class loader of thread: main
+2019-08-19 00:37:59 INFO  SchedulerSignalerImpl:61 - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-08-19 00:37:59 INFO  QuartzScheduler:229 - Quartz Scheduler v.2.4.0-SNAPSHOT created.
+2019-08-19 00:37:59 INFO  RAMJobStore:155 - RAMJobStore initialized.
+2019-08-19 00:37:59 INFO  QuartzScheduler:294 - Scheduler meta-data: Quartz Scheduler (v2.4.0-SNAPSHOT) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-08-19 00:37:59 INFO  StdSchedulerFactory:1362 - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2019-08-19 00:37:59 INFO  StdSchedulerFactory:1366 - Quartz scheduler version: 2.4.0-SNAPSHOT
+2019-08-19 00:37:59 INFO  QuartzScheduler:547 - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2019-08-19 00:38:00 INFO  MainApp:95 - Parse start: group1.job1 executing at Mon Aug 19 00:38:00 CST 2019
+2019-08-19 00:38:00 INFO  MainApp:202 - Start scraping: Mon Aug 19 00:38:00 CST 2019
+2019-08-19 00:38:00 INFO  MainApp:264 - Saving the data: Mon Aug 19 00:38:00 CST 2019
+2019-08-19 00:38:00 INFO  MainApp:242 - Parsing the data: Mon Aug 19 00:38:00 CST 2019
+2019-08-19 01:32:45 INFO  StdSchedulerFactory:1208 - Using default implementation for ThreadExecutor
+2019-08-19 01:32:45 INFO  SimpleThreadPool:268 - Job execution threads will use class loader of thread: main
+2019-08-19 01:32:45 INFO  SchedulerSignalerImpl:61 - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-08-19 01:32:45 INFO  QuartzScheduler:229 - Quartz Scheduler v.2.4.0-SNAPSHOT created.
+2019-08-19 01:32:45 INFO  RAMJobStore:155 - RAMJobStore initialized.
+2019-08-19 01:32:45 INFO  QuartzScheduler:294 - Scheduler meta-data: Quartz Scheduler (v2.4.0-SNAPSHOT) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-08-19 01:32:45 INFO  StdSchedulerFactory:1362 - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2019-08-19 01:32:45 INFO  StdSchedulerFactory:1366 - Quartz scheduler version: 2.4.0-SNAPSHOT
+2019-08-19 01:32:45 INFO  QuartzScheduler:547 - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2019-08-19 01:33:00 INFO  MainApp:95 - Parse start: group1.job1 executing at Mon Aug 19 01:33:00 CST 2019
+2019-08-19 01:33:00 INFO  MainApp:206 - Start scraping: Mon Aug 19 01:33:00 CST 2019
+2019-08-19 01:33:00 INFO  MainApp:268 - Saving the data: Mon Aug 19 01:33:00 CST 2019
+2019-08-19 01:33:00 INFO  MainApp:246 - Parsing the data: Mon Aug 19 01:33:00 CST 2019
+2019-08-19 01:34:00 INFO  MainApp:95 - Parse start: group1.job1 executing at Mon Aug 19 01:34:00 CST 2019
+2019-08-19 01:34:00 INFO  MainApp:206 - Start scraping: Mon Aug 19 01:34:00 CST 2019
+2019-08-19 01:34:00 INFO  MainApp:268 - Saving the data: Mon Aug 19 01:34:00 CST 2019
+2019-08-19 01:34:00 INFO  MainApp:246 - Parsing the data: Mon Aug 19 01:34:00 CST 2019
+2019-08-19 01:35:00 INFO  MainApp:95 - Parse start: group1.job1 executing at Mon Aug 19 01:35:00 CST 2019
+2019-08-19 01:35:00 INFO  MainApp:206 - Start scraping: Mon Aug 19 01:35:00 CST 2019
+2019-08-19 01:35:00 INFO  MainApp:268 - Saving the data: Mon Aug 19 01:35:00 CST 2019
+2019-08-19 01:35:00 INFO  MainApp:246 - Parsing the data: Mon Aug 19 01:35:00 CST 2019
+2019-08-19 01:36:00 INFO  MainApp:95 - Parse start: group1.job1 executing at Mon Aug 19 01:36:00 CST 2019
+2019-08-19 01:36:00 INFO  MainApp:206 - Start scraping: Mon Aug 19 01:36:00 CST 2019
+2019-08-19 01:36:00 INFO  MainApp:268 - Saving the data: Mon Aug 19 01:36:00 CST 2019
+2019-08-19 01:36:00 INFO  MainApp:246 - Parsing the data: Mon Aug 19 01:36:00 CST 2019
